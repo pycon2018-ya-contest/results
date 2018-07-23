@@ -1,0 +1,366 @@
+
+------------
+|0000000010|
+|0000000000|
+|0000000010|
+|0000000000|
+|0000000000|
+|1000100000|
+|0000000000|
+|1110111011|
+|0000000000|
+|1111011011|
+------------
+Player 1 field:
+
+------------
+|....1.....|
+|..1...11..|
+|..1.......|
+|......1...|
+|111.......|
+|......1...|
+|.1111.....|
+|.......1..|
+|.......1.1|
+|....11.1..|
+------------
+Player 2 field:
+
+------------
+|0000000010|
+|0000000000|
+|0000000010|
+|0000000000|
+|0000000000|
+|1000100000|
+|0000000000|
+|1110111011|
+|0000000000|
+|1111011011|
+------------
+Player 1: MOVE 7-6
+Player 2: MISS
+Player 2: MOVE 6-8
+Player 1: MISS
+Player 1: MOVE 5-8
+Player 2: HIT
+Player 1: MOVE 5-7
+Player 2: MISS
+Player 2: MOVE 8-9
+Player 1: HIT
+Player 2: MOVE 7-9
+Player 1: MISS
+Player 1: MOVE 4-8
+Player 2: MISS
+Player 2: MOVE 9-9
+Player 1: MISS
+Player 1: MOVE 6-8
+Player 2: HIT
+Player 1: MOVE 7-8
+Player 2: KILL
+Player 1: MOVE 9-4
+Player 2: MISS
+Player 2: MOVE 8-8
+Player 1: HIT
+Player 2: MOVE 8-7
+Player 1: MISS
+Player 1: MOVE 8-5
+Player 2: MISS
+Player 2: MOVE 8-10
+Player 1: KILL
+Player 2: MOVE 6-4
+Player 1: MISS
+Player 1: MOVE 10-3
+Player 2: MISS
+Player 2: MOVE 4-6
+Player 1: MISS
+Player 1: MOVE 3-6
+Player 2: MISS
+Player 2: MOVE 5-5
+Player 1: MISS
+Player 1: MOVE 1-4
+Player 2: MISS
+Player 2: MOVE 3-7
+Player 1: HIT
+Player 2: MOVE 3-8
+Player 1: MISS
+Player 1: MOVE 4-5
+Player 2: MISS
+Player 2: MOVE 4-7
+Player 1: HIT
+Player 2: MOVE 5-7
+Player 1: HIT
+Player 2: MOVE 2-7
+Player 1: KILL
+Player 2: MOVE 8-3
+Player 1: MISS
+Player 1: MOVE 7-10
+Player 2: HIT
+Player 1: MOVE 8-10
+Player 2: MISS
+Player 2: MOVE 3-3
+Player 1: HIT
+Player 2: MOVE 3-4
+Player 1: MISS
+Player 1: MOVE 6-10
+Player 2: KILL
+Player 1: MOVE 7-2
+Player 2: MISS
+Player 2: MOVE 2-3
+Player 1: MISS
+Player 1: MOVE 3-10
+Player 2: HIT
+Player 1: MOVE 3-9
+Player 2: MISS
+Player 2: MOVE 3-2
+Player 1: KILL
+Player 2: MOVE 9-4
+Player 1: MISS
+Player 1: MOVE 4-10
+Player 2: HIT
+Player 1: MOVE 2-10
+Player 2: HIT
+Player 1: MOVE 1-10
+Player 2: KILL
+Player 1: MOVE 10-7
+Player 2: MISS
+Player 2: MOVE 7-5
+Player 1: MISS
+Player 1: MOVE 3-2
+Player 2: MISS
+Player 2: MOVE 7-2
+Player 1: HIT
+Player 2: MOVE 8-2
+Player 1: KILL
+Player 2: MOVE 8-6
+Player 1: MISS
+Player 1: MOVE 2-7
+Player 2: MISS
+Player 2: MOVE 1-5
+Player 1: HIT
+Player 2: MOVE 1-6
+Player 1: MISS
+Player 1: MOVE 6-3
+Player 2: MISS
+Player 2: MOVE 1-4
+Player 1: MISS
+Player 1: MOVE 4-1
+Player 2: MISS
+Player 2: MOVE 2-5
+Player 1: HIT
+Player 2: MOVE 3-5
+Player 1: KILL
+Player 2: MOVE 6-6
+Player 1: MISS
+Player 1: MOVE 9-8
+Player 2: HIT
+Player 1: MOVE 9-9
+Player 2: MISS
+Player 2: MOVE 2-9
+Player 1: MISS
+Player 1: MOVE 9-7
+Player 2: MISS
+Player 2: MOVE 10-5
+Player 1: MISS
+Player 1: MOVE 10-8
+Player 2: KILL
+Player 1: MOVE 2-3
+Player 2: MISS
+Player 2: MOVE 5-10
+Player 1: HIT
+Player 2: MOVE 4-10
+Player 1: MISS
+Player 1: MOVE 5-4
+Player 2: MISS
+Player 2: MOVE 5-9
+Player 1: MISS
+Player 1: MOVE 8-1
+Player 2: MISS
+Player 2: MOVE 6-10
+Player 1: KILL
+Player 2: MOVE 10-3
+Player 1: MISS
+Player 1: MOVE 5-2
+Player 2: MISS
+Player 2: MOVE 1-10
+Player 1: MISS
+Player 1: MOVE 6-1
+Player 2: MISS
+Player 2: MOVE 7-7
+Player 1: MISS
+Player 1: MOVE 9-2
+Player 2: MISS
+Player 2: MOVE 10-2
+Player 1: MISS
+Player 1: MOVE 6-5
+Player 2: MISS
+Player 2: MOVE 9-5
+Player 1: MISS
+Player 1: MOVE 8-3
+Player 2: MISS
+Player 2: MOVE 4-1
+Player 1: MISS
+Player 1: MOVE 3-8
+Player 2: HIT
+Player 1: MOVE 2-8
+Player 2: HIT
+Player 1: MOVE 1-8
+Player 2: KILL
+Player 1: MOVE 1-6
+Player 2: KILL
+Player 1: MOVE 3-4
+Player 2: MISS
+Player 2: MOVE 7-4
+Player 1: KILL
+Player 2: MOVE 5-1
+Player 1: KILL
+Player 2: MOVE 7-6
+Player 1: KILL
+Player 2: MOVE 1-7
+Player 1: MISS
+Player 1: MOVE 10-1
+Player 2: MISS
+Player 2: MOVE 1-3
+Player 1: MISS
+Player 1: MOVE 5-6
+Player 2: KILL
+Player 1: MOVE 9-6
+Player 2: MISS
+Player 2: MOVE 5-3
+Player 1: MISS
+Player 1: MOVE 10-5
+Player 2: MISS
+Player 2: MOVE 3-1
+Player 1: MISS
+Player 1: MOVE 7-4
+Player 2: MISS
+Player 2: MOVE 2-10
+Player 1: MISS
+Player 1: MOVE 4-3
+Player 2: MISS
+Player 2: MOVE 10-1
+Player 1: MISS
+Player 1: MOVE 1-2
+Player 2: MISS
+Player 2: MOVE 1-8
+Player 1: MISS
+Player 1: MOVE 9-10
+Player 2: HIT
+Player 1: MOVE 10-10
+Player 2: KILL
+Player 1: MOVE 2-1
+Player 2: MISS
+Player 2: MOVE 9-7
+Player 1: MISS
+Player 1: MOVE 8-6
+Player 2: MISS
+Player 2: MOVE 2-1
+Player 1: MISS
+Player 1: MOVE 1-3
+Player 2: MISS
+Player 2: MOVE 5-4
+Player 1: MISS
+Player 1: MOVE 2-2
+Player 2: MISS
+Player 2: MOVE 1-1
+Player 1: MISS
+Player 1: MOVE 6-4
+Player 2: MISS
+Player 2: MOVE 3-10
+Player 1: MISS
+Player 1: MOVE 5-1
+Player 2: MISS
+Player 2: MOVE 10-4
+Player 1: MISS
+Player 1: MOVE 6-2
+Player 2: MISS
+Player 2: MOVE 1-9
+Player 1: MISS
+Player 1: MOVE 9-5
+Player 2: MISS
+Player 2: MOVE 3-9
+Player 1: MISS
+Player 1: MOVE 10-6
+Player 2: MISS
+Player 2: MOVE 10-7
+Player 1: MISS
+Player 1: MOVE 10-4
+Player 2: MISS
+Player 2: MOVE 10-6
+Player 1: MISS
+Player 1: MOVE 5-3
+Player 2: MISS
+Player 2: MOVE 1-2
+Player 1: MISS
+Player 1: MOVE 9-3
+Player 2: KILL
+Player 1: MOVE 3-3
+Player 2: MISS
+Player 2: MOVE 9-6
+Player 1: MISS
+Player 1: MOVE 7-1
+Player 2: MISS
+Player 2: MOVE 10-9
+Player 1: KILL
+Player 1: DEFEAT
+Player 2: VICTORY
+==================================================
+Player 1 field:
+His POV:
+
+------------
+|....X.....|
+|..X...XX..|
+|..X.......|
+|......X...|
+|XXX.......|
+|......X...|
+|.XXXX.....|
+|.......X..|
+|.......X.X|
+|....XX.X..|
+------------
+Opponents POV:
+
+------------
+|4442122224|
+|4222221124|
+|4222422224|
+|2222421244|
+|1112422244|
+|2222221244|
+|4221122244|
+|4222242222|
+|4442222121|
+|4442112122|
+------------
+Player 2 field:
+His POV:
+
+------------
+|0000000010|
+|0000000000|
+|0000000030|
+|0000000000|
+|0000000000|
+|3000300000|
+|0000000000|
+|3330333033|
+|0000000000|
+|3333033033|
+------------
+Opponents POV:
+
+------------
+|.x.xxxxx.x|
+|xxx.xxxxxx|
+|xxxxxx.x1x|
+|x.x.xxxxxx|
+|xx.xxx.xxx|
+|1xxx1xxxxx|
+|xxxxxxxxxx|
+|111x111x11|
+|xxxxxxxxxx|
+|1111x11x11|
+------------
